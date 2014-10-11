@@ -1,11 +1,3 @@
-# Salesforce Hackathon App
-Description: ???
-
-## Contributors
-Matt Darin  
-Justin Cano  
-Adam Schuld  
-Julia Framel  
-Jourdan Bul-lalayao  
-Whitney O'Banner  
-
+# Moved to Wh1itney's Repo 
+Go here for the new repo  
+https://github.com/wh1tney/SalesForceSilverCloud
