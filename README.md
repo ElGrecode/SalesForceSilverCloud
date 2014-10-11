@@ -6,6 +6,6 @@ Matt Darin
 Justin Cano  
 Adam Schuld  
 Julia Framel  
-Jourdan Bul-lalayao
+Jourdan Bul-lalayao  
 Whitney O'Banner  
 
